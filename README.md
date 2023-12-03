@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @redoine-zitouni
 - 👀 I’m interested in data science, machine learning, statistics, programming ...
-- 📫 How to reach me redoine.zitouni@outlook.com
+- 📫 How to reach me redoine.zitouni@mines-ales.org
